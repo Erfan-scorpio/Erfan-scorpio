@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Erfan-scorpio
+- 👋 Hi, I’m Erfan
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning JavaScript
 - 🤝 I’m looking to collaborate on Front-End projects
